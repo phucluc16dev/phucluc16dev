@@ -46,37 +46,7 @@
 
 ---
 
-###  GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=phucluc16dev&theme=tokyonight&no-bg=true&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-###  Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=phucluc16dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-###  Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/phucluc16dev/phucluc16dev/output/github-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
 
 ###  Connect with me
 
