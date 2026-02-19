@@ -2,7 +2,7 @@
 
 # Hey There! 
 
-### I'm Phuc — a Fullstack Developer & Maker 
+### I'm Luc — a Fullstack Developer & Maker 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=Fullstack+Developer;iOS+%2F+Swift+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
 
