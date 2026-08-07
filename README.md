@@ -2,7 +2,7 @@
 
 # Hey There! 
 
-### I'm Luc — a Fullstack Developer & Maker 
+### I'm Luc — a iOS Developer 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=Fullstack+Developer;iOS+%2F+Swift+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
 
@@ -14,7 +14,6 @@
 
 -  I'm currently working on **exciting projects**
 -  I'm always learning and exploring new technologies
--  Ask me about **Swift, React, Docker, and Web Development**
 -  Fun fact: I love turning ideas into reality through code
 
 ---
@@ -23,7 +22,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=swift,react,tailwind,vite,figma,docker,js,ts,html,mongodb&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,figma,js,ts,html,mongodb,&perline=5)](https://skillicons.dev)
 
 </div>
 
