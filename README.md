@@ -1,12 +1,6 @@
 <div align="center">
-
- __    __   __       _______  __    __  ____    ____  _______.    __   __   __  
-|  |  |  | |  |     /  _____||  |  |  | \   \  /   / /       |   |  | |  | |  | 
-|  |__|  | |  |    |  |  __  |  |  |  |  \   \/   / |   (----`   |  | |  | |  | 
-|   __   | |  |    |  | |_ | |  |  |  |   \_    _/   \   \       |  | |  | |  | 
-|  |  |  | |  |    |  |__| | |  `--'  |     |  | .----)   |      |__| |__| |__| 
-|__|  |__| |__|     \______|  \______/      |__| |_______/       (__) (__) (__) 
-                                                                                
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH5joHOahtMpPFOMQQbZiPWulp2FoLlEKcDyF7Ao1PcJbDmAjk8LabhjLuo7Zuik6UPqSNGwq9ZRyAyltgXGZfLsI0rjgENWAMmc489d6hQQOEoBtCRlg3QqJ7o4X8Js5TemKGtVR_w6wi8DTb4pKGZXqNeY-iLFA9TVd-XzR44thXyV-yQa_KjqWnZJY/s594/ascii-art-text.png
+" alt="" />
 
 ### I'm Luc — a iOS Developer 
 
