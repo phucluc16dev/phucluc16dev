@@ -62,11 +62,6 @@
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
 
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=phucluc16dev&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF)](https://git.io/streak-stats)
-
 </div>
 
 ---
