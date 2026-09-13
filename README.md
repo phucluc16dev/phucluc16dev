@@ -68,6 +68,7 @@
 ###  Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phucluc16dev)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/phucluc_)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=phucluc16dev&color=6C63FF&style=for-the-badge)
