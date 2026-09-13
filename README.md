@@ -65,17 +65,6 @@
 
 ---
 
-###  GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=phucluc16dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucluc16dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" height="170" />
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=phucluc16dev&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF)](https://git.io/streak-stats)
 
 </div>
