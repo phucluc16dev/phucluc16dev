@@ -8,7 +8,6 @@
 
 </div>
 
----
 
 ###  About Me
 
@@ -16,7 +15,6 @@
 -  I'm always learning and exploring new technologies
 -  Fun fact: I love turning ideas into reality through code
 
----
 
 ###  Tech Stack
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -64,7 +62,6 @@
 
 </div>
 
----
 
 
 
@@ -72,7 +69,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phucluc16dev)
 
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=phucluc16dev&color=6C63FF&style=for-the-badge)
 
