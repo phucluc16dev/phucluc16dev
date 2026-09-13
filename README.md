@@ -2,7 +2,7 @@
 <img width="10000" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH5joHOahtMpPFOMQQbZiPWulp2FoLlEKcDyF7Ao1PcJbDmAjk8LabhjLuo7Zuik6UPqSNGwq9ZRyAyltgXGZfLsI0rjgENWAMmc489d6hQQOEoBtCRlg3QqJ7o4X8Js5TemKGtVR_w6wi8DTb4pKGZXqNeY-iLFA9TVd-XzR44thXyV-yQa_KjqWnZJY/s594/ascii-art-text.png
 " alt=""/>
 
-### I'm Luc — a iOS Developer 
+### I'm Luc — a Web/App Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&lines=Fullstack+Developer;iOS+%2F+Swift+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
 
