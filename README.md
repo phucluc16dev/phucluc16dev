@@ -4,7 +4,7 @@
 
 ### I'm Luc — a Web/App Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&lines=Fullstack+Developer;iOS+%2F+Swift+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&random=false&width=500&lines=Fullstack+Developer;iOS+%2F+Swift+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
 
 </div>
 
