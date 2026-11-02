@@ -1,0 +1,50 @@
+name: commit
+
+on:
+  schedule:
+    # Chạy vào 01:00 UTC mỗi ngày (08:00 sáng giờ Việt Nam)
+    - cron: '0 1 * * *'
+  workflow_dispatch: # Nút bấm chạy thử thủ công
+
+permissions:
+  contents: write
+
+jobs:
+  whitespace-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Add or remove spaces and commit
+        run: |
+          git config --global user.name "phucluc16dev"
+          git config --global user.email "luctp.25it@vku.udn.vn"
+          
+          # Random từ 1 đến 5 commits mỗi ngày
+          NUM_COMMITS=$(( ( RANDOM % 5 ) + 1 ))
+          
+          MESSAGES=(
+            "chore: update readme"
+            "docs: minor formatting"
+            "style: adjust whitespace"
+            "chore: sync profile"
+            "docs: cleanup readme"
+          )
+          
+          for (( i=1; i<=NUM_COMMITS; i++ ))
+          do
+            # Nếu cuối file đã có nhiều dấu cách thì xóa bớt, ngược lại thì chèn thêm 1 dấu cách
+            if tail -c 5 README.md | grep -q "     "; then
+              sed -i 's/[ ]*$//' README.md
+            else
+              printf " " >> README.md
+            fi
+            
+            RANDOM_MSG=${MESSAGES[$RANDOM % ${#MESSAGES[@]}]}
+            git add README.md
+            git commit -m "$RANDOM_MSG"
+            sleep 1
+          done
+          
+          git push
