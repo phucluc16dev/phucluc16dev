@@ -1,6 +1,9 @@
 name: commit
 
 on:
+  concurrency:
+    group: whitespace-commit
+    cancel-in-progress: false
   schedule:
     # Chạy vào 01:00 UTC mỗi ngày (08:00 sáng giờ Việt Nam)
     - cron: '0 1 * * *'
@@ -47,4 +50,5 @@ jobs:
             sleep 1
           done
           
-          git push
+          git pull --rebase origin main
+          git push origin main
