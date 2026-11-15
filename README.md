@@ -3,7 +3,7 @@
 " alt=""/>
 
 ### I'm Luc — a Web/App Developer
-</div>
+</div> 
   
 
 ###  About Me
